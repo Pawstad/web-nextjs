@@ -6,4 +6,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 Author : Pawstad
+
 CS major in Diponegoro University
